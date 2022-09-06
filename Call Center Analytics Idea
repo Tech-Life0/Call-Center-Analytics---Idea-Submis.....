@@ -1,0 +1,14 @@
+Convert speech recordings into text for various Indian Languages
+This is Posibale with help of AI Transcription API Use in asterisk DialPlan.
+
+Call recordings with mixed languages such as Hindi + English, English + Marathi, etc.
+This is Posible By the helP Of Callmeenu & Dialplan whre we define to to use mixrecoding
+
+Provide sentiment analysis from the call center recordings
+This need research how the Qurey has to work with undesatnd the level.
+
+Centralized dashboard for Bank to understand different KPIs for customer satisfaction
+This is posible with mysqli_connect for various Database by define filter & qureys
+
+Provide better analytics on the call center queries and questions
+This is posible with the Auto survey campaign  with the Dialer or Asterisk.
